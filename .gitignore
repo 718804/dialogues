@@ -1,4 +1,7 @@
 docx
 .backup
+backup
 book
 gen_book.sh
+convert.sh
+clean.sh
