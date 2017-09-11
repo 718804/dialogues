@@ -5,3 +5,6 @@ book
 gen_book.sh
 convert.sh
 clean.sh
+pending
+7188*
+deploy.sh
