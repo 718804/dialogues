@@ -2,9 +2,12 @@ docx
 .backup
 backup
 book
-gen_book.sh
-convert.sh
-clean.sh
 pending
 7188*
-deploy.sh
+raw
+*sh
+*py
+test*
+weibo_qa_718804.github.io
+record.data
+config.ini
